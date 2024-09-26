@@ -1,0 +1,361 @@
+,Event.Id,Investigation.Type,Accident.Number,Event.Date,Location,Country,Injury.Severity,Aircraft.damage,Aircraft.Category,Registration.Number,Make,Model,Amateur.Built,Number.of.Engines,Engine.Type,Purpose.of.flight,Total.Fatal.Injuries,Total.Serious.Injuries,Total.Minor.Injuries,Total.Uninjured,Weather.Condition,Total.Souls
+84,20020917X01907,Accident,DCA82AA011,1982-01-13,"WASHINGTON, DC",United States,Fatal(78),Destroyed,Other,N62AF,Boeing,737,No,2.0,Turbo Fan,Unknown,78.0,6.0,3.0,0.0,IMC,87.0
+796,20020917X01904,Incident,CHI82IA117,1982-04-09,"YOUNGSTOWN, OH",United States,Incident,Minor,Airplane,N7627U,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,108.0,IMC,108.0
+901,20020917X02079,Accident,FTW82DA139,1982-04-18,"AUSTIN, TX",United States,Non-Fatal,Substantial,Airplane,N32717,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,68.0,VMC,68.0
+908,20020917X02421,Incident,MIA82IA102,1982-04-20,"MIAMI, FL",United States,Incident,Minor,Airplane,N333EA,Lockheed Martin,L-1011,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,152.0,VMC,152.0
+2132,20020917X04067,Incident,NYC82IA170,1982-07-28,"FLUSHING, NY",United States,Incident,Minor,Airplane,N64323,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,129.0,IMC,129.0
+3335,20020917X04669,Incident,FTW83IA044,1982-11-22,"LITTLE ROCK, AR",United States,Incident,Minor,Airplane,N846AA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,23.0,IMC,23.0
+3423,20020917X04915,Incident,MIA83IA043,1982-12-06,"SARASOTA, FL",United States,Incident,Minor,Airplane,N8871Z,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,21.0,VMC,21.0
+3557,20020917X04672,Incident,FTW83IA086,1982-12-26,"MEMPHIS, TN",United States,Incident,Minor,Airplane,N6810,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,58.0,IMC,58.0
+4180,20001214X42400,Incident,DEN83IA083,1983-03-21,"DENVER, CO",United States,Incident,Minor,Other,N7358F,Boeing,737,No,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,82.0,VMC,82.0
+4244,20001214X42540,Incident,MKC83IA083,1983-03-30,"DES MOINES, IA",United States,Incident,Minor,Other,N7441U,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,44.0,IMC,44.0
+4735,20001214X43089,Accident,MKC83FA112,1983-05-20,"ST. LOUIS, MO",United States,Non-Fatal,Substantial,Other,N40483,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,52.0,VMC,52.0
+4770,20001214X43095,Incident,MKC83IA115,1983-05-24,"ST. LOUIS, MO",United States,Incident,Minor,Other,N31013,Lockheed Martin,L-1011,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,131.0,VMC,131.0
+4799,20001214X43096,Incident,MKC83IA116,1983-05-27,"KANSAS CITY, MO",United States,Incident,Minor,Other,N11006,Lockheed Martin,L-1011,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,180.0,VMC,180.0
+4800,20001214X42872,Incident,ATL83IA201,1983-05-27,"CHARLOTTE, NC",United States,Incident,Minor,Other,N856N,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,150.0,VMC,150.0
+5280,20001214X43796,Incident,LAX83IA316,1983-07-02,"LOS ANGELES, CA",United States,Incident,Minor,Other,N88708,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,1.0,133.0,VMC,134.0
+6178,20001214X44459,Incident,CHI83IA418,1983-09-07,"CHICAGO, IL",United States,Incident,Minor,Other,N1984,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,116.0,VMC,116.0
+6494,20001214X44712,Incident,ANC84IA002,1983-10-07,"JUNEAU, AK",United States,Incident,Minor,Other,N2808W,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,87.0,IMC,87.0
+6760,20001214X45013,Incident,CHI84IA041,1983-11-08,"CHICAGO, IL",United States,Incident,Minor,Airplane,N898AA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,100.0,VMC,100.0
+6789,20001214X45026,Accident,DCA84AA006,1983-11-11,"MIAMI, FL",United States,Non-Fatal,Substantial,Other,N812EA,Boeing,727,No,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,158.0,VMC,159.0
+6886,20001214X45027,Accident,DCA84AA008,1983-11-24,"CHARLESTON, SC",United States,Non-Fatal,Minor,Other,CFTNJ,Lockheed Martin,L-1011,No,3.0,Turbo Fan,Unknown,0.0,5.0,20.0,136.0,UNK,161.0
+7123,20001214X45309,Accident,LAX84AA132,1983-12-28,"NEW YORK, NY",United States,Non-Fatal,Substantial,Other,N79750,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,127.0,IMC,127.0
+7194,20001214X38673,Incident,SEA84IA037,1984-01-07,"SEATTLE, WA",United States,Incident,Minor,Other,N876AA,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,81.0,IMC,81.0
+7270,20001214X38627,Incident,MIA84IA063,1984-01-20,"TAMPA, FL",United States,Incident,Minor,Other,N8852E,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,152.0,VMC,152.0
+7612,20001214X39020,Accident,FTW84FA153,1984-03-04,"LAMPASAS, TX",United States,Non-Fatal,Minor,Other,N471BN,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,1.0,3.0,44.0,VMC,48.0
+7758,20001214X39124,Incident,MKC84IA108,1984-03-20,"KANSAS CITY, MO",United States,Incident,Minor,Other,N88706,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,1.0,77.0,VMC,78.0
+8447,20001214X39536,Accident,DCA84AA025,1984-05-31,"DENVER, CO",United States,Non-Fatal,Substantial,Other,N7640U,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,105.0,VMC,105.0
+8459,20001214X40096,Incident,NYC84IA192,1984-06-02,"FLUSHING, NY",United States,Incident,Minor,Other,N855TW,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,66.0,VMC,66.0
+8476,20001214X40027,Incident,MIA84IA174,1984-06-03,"FT.LAUDERDALE, FL",United States,Incident,Minor,Other,N724DA,Lockheed Martin,L-1011,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,111.0,VMC,111.0
+8782,20001214X40098,Incident,NYC84IA225,1984-06-27,"PORTLAND, ME",United States,Incident,Minor,Other,N417PE,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,2.0,121.0,VMC,123.0
+9033,20001214X40226,Incident,CHI84IA301,1984-07-16,"CHICAGO, IL",United States,Incident,Minor,Other,N464DA,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,91.0,VMC,91.0
+9158,20001214X40470,Incident,NYC84IA271,1984-07-26,"BUFFALO, NY",United States,Incident,Minor,Other,N518PE,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,105.0,VMC,105.0
+10417,20001214X41709,Incident,ATL85IA047,1984-12-04,"ATLANTA, GA",United States,Incident,Minor,Other,N264US,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,99.0,VMC,99.0
+10615,20001214X35494,Accident,DCA85RA007,1985-01-01,"LA PAZ, Bolivia",Bolivia,Fatal(29),Destroyed,Other,N819EA,Boeing,727,No,3.0,Turbo Fan,Unknown,29.0,0.0,0.0,0.0,UNK,29.0
+10706,20001214X35500,Incident,DEN85IA065,1985-01-17,"FLUSHING, NY",United States,Incident,Minor,Other,N79748,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,86.0,IMC,86.0
+11014,20001214X35849,Incident,BFO85IA024,1985-03-04,"PATUXENT RIVER, MD",United States,Incident,Minor,Other,CFTNE,Lockheed Martin,L-1011,No,3.0,Turbo Fan,Unknown,0.0,0.0,2.0,276.0,VMC,278.0
+11347,20001214X36226,Incident,LAX85IA206,1985-04-16,"LAS CRUCES, NM",United States,Incident,Minor,Other,N718AA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,89.0,VMC,89.0
+11348,20001214X36102,Incident,BFO85IA036,1985-04-16,"WASHINGTON, DC",United States,Incident,Minor,Other,N400DL,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,129.0,VMC,129.0
+11489,20001214X36171,Accident,FTW85FA202,1985-04-28,"AMARILLO, TX",United States,Non-Fatal,Substantial,Other,N300SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,1.0,132.0,IMC,133.0
+11900,20001214X36865,Incident,MKC85IA131,1985-06-11,"ST. LOUIS, MO",United States,Incident,Minor,Other,N31013,Lockheed Martin,L-1011,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,219.0,IMC,219.0
+12519,20001214X37434,Accident,DCA85AA031,1985-08-02,"DALLAS/FT WORTH, TX",United States,Fatal(135),Destroyed,Other,N726DA,Lockheed Martin,L-1011,No,3.0,Turbo Fan,Unknown,135.0,15.0,13.0,2.0,IMC,165.0
+12619,20001214X37390,Incident,BFO85IA065,1985-08-11,"RICHMOND, VA",United States,Incident,Minor,Other,N8856E,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,78.0,VMC,78.0
+13113,20001214X37767,Incident,DEN85IA250,1985-09-29,"DENVER, CO",United States,Incident,Minor,Other,N721PC,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,71.0,VMC,71.0
+13311,20001214X38052,Incident,LAX86IA021,1985-10-24,"OAKLAND, CA",United States,Incident,Minor,Other,N6815A,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,90.0,IMC,90.0
+13512,20001214X38220,Incident,DEN86IA031,1985-11-26,"CASPER, WY",United States,Incident,Minor,Other,N7011U,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,111.0,VMC,111.0
+13679,20001214X38468,Incident,MIA86MA048,1985-12-28,"FORT LAUDERDALE, FL",United States,Incident,Minor,Other,N519DA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,131.0,VMC,131.0
+13754,20010110X00111,Incident,ATL86IA054,1986-01-09,"MEMPHIS, TN",United States,Incident,Minor,Other,N403DA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,38.0,VMC,38.0
+13805,20010110X00148,Accident,DCA86AA014,1986-01-17,"LOUDON COUNTY, VA",United States,Non-Fatal,Substantial,Other,N802EA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,131.0,VMC,131.0
+13915,20001213X32908,Incident,MIA86IA072,1986-02-05,"NEW YORK, NY",United States,Incident,Minor,Other,N812EA,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,8.0,VMC,8.0
+13928,20001213X32836,Incident,DCA86IA017,1986-02-08,"HARLINGEN, TX",United States,Incident,Minor,Other,N871AA,Boeing,727,No,4.0,Turbo Fan,Unknown,0.0,0.0,0.0,134.0,IMC,134.0
+14000,20001213X32842,Accident,DEN86FA080,1986-02-20,"DENVER, CO",United States,Non-Fatal,Substantial,Other,N17309,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,111.0,VMC,111.0
+14163,20001213X33124,Incident,MIA86IA098,1986-03-16,"MIAMI, FL",United States,Incident,Minor,Other,N8861E,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,140.0,VMC,140.0
+14309,20001213X33243,Incident,CHI86IA115,1986-04-03,"MINNEAPOLIS, MN",United States,Incident,Minor,Other,N508US,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,161.0,VMC,161.0
+14361,20001213X33229,Accident,CHI86FA119,1986-04-08,"CHICAGO, IL",United States,Non-Fatal,Substantial,Other,N9054U,Boeing,737,No,2.0,Turbo Jet,Unknown,0.0,0.0,1.0,113.0,VMC,114.0
+14769,20001213X33559,Incident,FTW86IA093,1986-05-25,"CORPUS CHRISTI, TX",United States,Incident,Minor,Other,N88711,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,2.0,83.0,VMC,85.0
+15337,20001213X34244,Incident,MIA86IA213,1986-07-19,"MIAMI, FL",United States,Incident,Minor,Other,N8872Z,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,99.0,VMC,99.0
+16104,20001213X35047,Incident,NYC87IA014,1986-10-14,"PORTLAND, ME",United States,Incident,Minor,Other,N517PE,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,43.0,IMC,43.0
+16179,20001213X34943,Accident,DCA87AA006,1986-10-25,"CHARLOTTE, NC",United States,Non-Fatal,Destroyed,Other,N752N,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,3.0,31.0,85.0,IMC,119.0
+16325,20001213X35110,Incident,BFO87IA008,1986-11-16,"NORFOLK, VA",United States,Incident,Minor,Other,N64323,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,1.0,23.0,VMC,24.0
+16499,20001213X35287,Accident,ANC87FA021,1986-12-15,"ANCHORAGE, AK",United States,Non-Fatal,Minor,Other,N7635U,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,2.0,7.0,93.0,VMC,102.0
+16535,20001213X35305,Accident,ATL87LA046,1986-12-22,"DUBLIN, VA",United States,Non-Fatal,Minor,Other,N369AU,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,1.0,4.0,131.0,VMC,136.0
+16610,20001213X30118,Incident,MIA87IA068,1987-01-06,"TAMPA, FL",United States,Incident,Minor,Other,N6819,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,148.0,VMC,148.0
+16985,20001213X30538,Incident,NYC87IA106,1987-03-10,"JAMAICA, NY",United States,Incident,Minor,Other,N802EA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,127.0,VMC,127.0
+16990,20001213X30543,Accident,NYC87LA108,1987-03-10,"BURLINGTON, VT",United States,Non-Fatal,Substantial,Other,N780AL,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,104.0,VMC,104.0
+17012,20001213X30416,Accident,DCA87RA002,1987-03-13,"CALGARY, CANADA",Canada,Non-Fatal,Substantial,Other,N2819W,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,71.0,UNK,71.0
+17806,20001213X31142,Incident,CHI87IA163,1987-06-18,"DETROIT, MI",United States,Incident,Minor,Other,N515US,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,123.0,VMC,123.0
+18048,20001213X31580,Incident,MIA87IA204,1987-07-11,"WASHINGTON, DC",United States,Incident,Minor,Other,N8892Z,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,87.0,IMC,87.0
+18517,20001213X31706,Accident,ATL87FA240,1987-08-25,"ATLANTA, GA",United States,Non-Fatal,Substantial,Other,N720DA,Lockheed Martin,L-1011,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,147.0,VMC,147.0
+18567,20001213X32139,Incident,MIA87IA237,1987-09-02,"TAMPA, FL",United States,Incident,Minor,Other,N844AA,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,4.0,36.0,VMC,40.0
+18698,20001213X32134,Accident,MIA87FA248,1987-09-15,"TULSA, OK",United States,Non-Fatal,Substantial,Other,N8857E,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,62.0,VMC,62.0
+18809,20001213X32186,Accident,NYC87FA264,1987-09-28,"BERMUDA, Bermuda",Bermuda,Non-Fatal,Minor,Other,N317EA,Lockheed Martin,L-1011,No,3.0,Turbo Fan,Unknown,0.0,1.0,39.0,99.0,VMC,139.0
+19397,20001213X32732,Incident,MIA88IA072,1987-12-27,"MIAMI, FL",United States,Incident,Minor,Other,N54344,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,131.0,VMC,131.0
+19884,20001213X25347,Incident,SEA88IA065,1988-03-20,"PORTLAND, OR",United States,Incident,Minor,Other,N515DA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,78.0,VMC,78.0
+20044,20001213X25382,Incident,ATL88IA139,1988-04-11,"ATLANTA, GA",United States,Incident,Minor,Other,N889Z,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,83.0,VMC,83.0
+20098,20001213X25385,Incident,ATL88IA147,1988-04-17,"CLEVELAND, OH",United States,Incident,Minor,Other,N433PE,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,2.0,106.0,VMC,108.0
+20243,20001213X25692,Incident,FTW88IA097,1988-05-09,"DETROIT, MI",United States,Incident,Minor,Other,N800AA,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,112.0,VMC,112.0
+20539,20001213X26073,Incident,SEA88IA108,1988-06-12,"SEATTLE, WA",United States,Incident,Minor,Other,N308AS,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,7.0,81.0,VMC,88.0
+20815,20001213X26163,Accident,CHI88FA163,1988-07-11,"ST PAUL, MN",United States,Non-Fatal,Substantial,Other,N254US,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,93.0,VMC,93.0
+20942,20001213X26302,Incident,MIA88IA231,1988-07-24,"MIAMI, FL",United States,Incident,Minor,Other,N69AF,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,85.0,VMC,85.0
+20965,20001213X26239,Incident,FTW88IA141,1988-07-26,"KENTON, DE",United States,Incident,Minor,Other,N14336,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,50.0,IMC,50.0
+20966,20001213X26200,Incident,DEN88IA167,1988-07-26,"DENVER, CO",United States,Incident,Minor,Other,N1973,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,5.0,VMC,5.0
+21311,20001213X26494,Accident,CHI88FA223,1988-08-27,"CHICAGO, IL",United States,Non-Fatal,Substantial,Other,N852TW,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,7.0,61.0,VMC,68.0
+21341,20001213X26528,Accident,DCA88MA072,1988-08-31,"DALLAS/FT WORTH, TX",United States,Fatal(14),Destroyed,Other,N473DA,Boeing,727,No,3.0,Turbo Fan,Unknown,14.0,26.0,50.0,18.0,VMC,108.0
+21422,20001213X26783,Accident,CHI88FA233,1988-09-09,"MINNEAPOLIS, MN",United States,Non-Fatal,Substantial,Other,N729RW,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,71.0,VMC,71.0
+21500,20001213X26834,Incident,FTW88IA165,1988-09-21,"DFW AIRPORT, TX",United States,Incident,Minor,Other,N710AA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,4.0,84.0,VMC,88.0
+21561,20001213X26803,Accident,DCA88RA108,1988-09-29,"ALAJUELA, COSTA RICA",Costa Rica,Non-Fatal,Substantial,Other,N523EA,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,128.0,UNK,128.0
+21626,20001213X27150,Incident,NYC89IA005,1988-10-06,"NEWARK, NJ",United States,Incident,Minor,Other,N118FE,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,3.0,VMC,3.0
+22560,20001213X27868,Accident,DCA89MA034,1989-03-17,"OAKLAND, CA",United States,Non-Fatal,Substantial,Other,N12318,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,69.0,VMC,69.0
+23024,20001213X28288,Incident,DEN89IA124,1989-05-24,"DENVER, CO",United States,Incident,Minor,Other,N296WA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,121.0,VMC,121.0
+23657,20001213X29031,Incident,ATL89IA187,1989-08-02,"GREENSBORO, NC",United States,Incident,Minor,Other,N413US,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,106.0,VMC,106.0
+23739,20001213X29143,Incident,LAX89IA315,1989-08-10,"LOS ANGELES, CA",United States,Incident,Minor,Other,N88709,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,148.0,VMC,148.0
+23861,20001213X29120,Incident,FTW89IA152,1989-08-25,"KENNER, LA",United States,Incident,Minor,Other,N52309,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,149.0,VMC,149.0
+24029,20001213X29437,Incident,MIA89IA248,1989-09-13,"FORT LAUDERDALE, FL",United States,Incident,Minor,Other,N629DL,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,106.0,VMC,106.0
+24090,20001213X29335,Accident,DCA89MA074,1989-09-20,"FLUSHING, NY",United States,Fatal(2),Destroyed,Other,N416US,Boeing,737,No,2.0,Turbo Fan,Unknown,2.0,3.0,18.0,40.0,IMC,63.0
+24242,20001213X29555,Incident,CHI90IA006,1989-10-09,"SAN FRANCISCO, CA",United States,Incident,Minor,Other,N512US,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,147.0,VMC,147.0
+24269,20001213X29575,Accident,DCA90MA002,1989-10-14,"SALT LAKE CITY, UT",United States,Non-Fatal,Destroyed,Other,N530DA,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,5.0,17.0,UNK,22.0
+24310,20001213X29577,Accident,DCA90RA003,1989-10-21,"TEGUCIGALPA, Honduras",Honduras,Fatal(131),Destroyed,Other,N88705,Boeing,727,No,3.0,Turbo Fan,Unknown,131.0,14.0,1.0,0.0,IMC,146.0
+24556,20001213X29737,Incident,ATL90IA033,1989-11-29,"ATLANTA, GA",United States,Incident,Minor,Other,N8835E,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,53.0,VMC,53.0
+24596,20001213X30003,Accident,NYC90FA038,1989-12-08,"NEWARK, NJ",United States,Non-Fatal,Substantial,Other,N727PJ,Boeing,727,No,3.0,Turbo Fan,Positioning,0.0,0.0,0.0,7.0,VMC,7.0
+24639,20001213X29982,Accident,LAX90LA055,1989-12-21,"SANTA ANA, CA",United States,Non-Fatal,Substantial,Other,N611AM,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,111.0,VMC,111.0
+24700,20001212X22451,Incident,MIA90IA047,1990-01-04,"MADISON, FL",United States,Incident,Minor,Other,N2280,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,145.0,VMC,145.0
+24764,20001212X22410,Accident,DEN90LA046,1990-01-16,"NEW YORK, NY",United States,Non-Fatal,Substantial,Other,N505UA,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,176.0,VMC,176.0
+24835,20001212X22386,Accident,CHI90FA075,1990-01-31,"INDIANAPOLIS, IN",United States,Fatal(1),Minor,Other,N519FT,Boeing,727,No,3.0,Turbo Fan,Unknown,1.0,0.0,0.0,6.0,VMC,7.0
+24894,20001212X22607,Incident,MIA90IA070,1990-02-12,"SARASOTA, FL",United States,Incident,Minor,Other,N8889Z,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,150.0,VMC,150.0
+24923,20001212X22585,Incident,LAX90IA101,1990-02-18,"LOS ANGELES, CA",United States,Incident,Minor,Other,N31013,Lockheed Martin,L-1011,No,3.0,Turbo Fan,Unknown,0.0,0.0,1.0,192.0,VMC,193.0
+25056,20001212X22742,Accident,LAX90LA116,1990-03-13,"PHOENIX, AZ",United States,Fatal(1),Minor,Other,N271AF,Boeing,727,No,3.0,Turbo Jet,Unknown,1.0,0.0,0.0,41.0,VMC,42.0
+25080,20001212X22748,Accident,LAX90LA122,1990-03-16,"SANTA ANA, CA",United States,Non-Fatal,Substantial,Other,N306AW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,110.0,VMC,110.0
+25081,20001212X22783,Incident,MKC90IA070,1990-03-17,"WICHITA, KS",United States,Incident,Minor,Other,N17317,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,1.0,135.0,VMC,136.0
+26125,20001212X23595,Accident,ATL90FA146,1990-07-22,"KINSTON, NC",United States,Non-Fatal,Substantial,Other,N210US,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,2.0,25.0,VMC,27.0
+26315,20001212X23969,Incident,DCA90IA048,1990-08-10,"CHICAGO, IL",United States,Incident,Minor,Other,N306US,Airbus,A320,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,159.0,VMC,159.0
+26330,20001212X24131,Incident,SEA90IA161,1990-08-12,"BELGRADE, MT",United States,Incident,Minor,Other,N69735,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,157.0,VMC,157.0
+26410,20001212X24038,Incident,LAX90IA293,1990-08-21,"LOS ANGELES, CA",United States,Incident,Minor,Other,N305UA,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,1.0,VMC,1.0
+26736,20001212X24215,Accident,CHI90FA278,1990-09-28,"DETROIT, MI",United States,Non-Fatal,Minor,Other,N278US,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,2.0,2.0,128.0,VMC,132.0
+27296,20001212X16275,Incident,CHI91IA078,1991-01-20,"ST. PAUL, MN",United States,Incident,Minor,Other,N295US,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,44.0,VMC,44.0
+27420,20001212X16389,Incident,ANC91IA028,1991-02-13,"UNALASKA, AK",United States,Incident,Minor,Other,N672MA,Boeing,737,No,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,46.0,VMC,46.0
+27749,20001212X16879,Incident,SEA91IA081,1991-04-09,"SEATTLE, WA",United States,Incident,Minor,Other,N9003U,Boeing,737,No,2.0,Turbo Jet,Unknown,0.0,0.0,2.0,31.0,VMC,33.0
+27839,20001212X16752,Incident,CHI91IA144,1991-04-25,"CHICAGO, IL",United States,Incident,Minor,Other,N6815,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,119.0,VMC,119.0
+27981,20001212X16909,Incident,ATL91IA094,1991-05-15,"NASHVILLE, TN",United States,Incident,Minor,Other,N882AA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,138.0,IMC,138.0
+29122,20001212X18055,Incident,CHI91IA297,1991-09-20,"DETROIT, MI",United States,Incident,Minor,Other,N88704,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,136.0,VMC,136.0
+29404,20001212X18486,Incident,MIA92IA020,1991-11-02,GULF OF MEXICO,GULF OF MEXICO,Incident,Minor,Other,N839TW,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,118.0,VMC,118.0
+29526,20001212X18456,Accident,FTW92LA033,1991-11-30,"LUBBOCK, TX",United States,Non-Fatal,Substantial,Other,N73SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,107.0,VMC,107.0
+29679,20001211X13978,Incident,DEN92IA025,1992-01-03,"DENVER, CO",United States,Incident,Minor,Other,N343UA,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,127.0,VMC,127.0
+31016,20001211X15125,Accident,DCA92MA044,1992-07-30,"JAMAICA, NY",United States,Non-Fatal,Destroyed,Airplane,N11002,Lockheed Martin,L-1011,No,3.0,Turbo Fan,Unknown,0.0,1.0,9.0,282.0,VMC,292.0
+31561,20001211X15920,Accident,MIA93WA002,1992-10-01,"MARTINIQUE, FRANCE",France,Non-Fatal,Substantial,Other,N726DH,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,5.0,VMC,5.0
+31949,20001211X16206,Incident,MIA93IA030,1992-12-17,"MIAMI, FL",United States,Incident,Minor,Other,N804MA,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,2.0,78.0,VMC,80.0
+32251,20001211X11863,Accident,MIA93FA073,1993-02-23,"FORT LAUDERDALE, FL",United States,Non-Fatal,Substantial,Other,N678DL,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,191.0,IMC,191.0
+32934,20001211X12495,Incident,ANC93IA084,1993-06-06,"ANCHORAGE, AK",United States,Incident,Minor,Other,N673MA,Boeing,737,No,2.0,Turbo Fan,Ferry,0.0,0.0,0.0,2.0,VMC,2.0
+32951,20001211X12640,Incident,LAX93IA245,1993-06-08,"LOS ANGELES, CA",United States,Incident,Minor,Other,N540UA,Boeing,757,No,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,197.0,VMC,197.0
+33440,20001211X13132,Accident,DEN93LA098,1993-08-02,"DENVER, CO",United States,Non-Fatal,Substantial,Other,N508UA,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,164.0,VMC,164.0
+33750,20001211X13362,Incident,CHI93IA354,1993-09-08,"ST. LOUIS, MO",United States,Incident,Minor,Other,N350SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,144.0,VMC,144.0
+33938,20001211X13516,Incident,ATL94IA001,1993-10-04,"FORT LAUDERDALE, FL",United States,Incident,Minor,Other,N638DL,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,95.0,VMC,95.0
+34158,20001211X13714,Accident,CHI94FA039,1993-11-15,"CHICAGO, IL",United States,Non-Fatal,Substantial,Other,N16762,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,86.0,VMC,86.0
+34493,20001206X00724,Incident,CHI94IA081,1994-02-09,"CHICAGO, IL",United States,Incident,Minor,Other,N408PE,Boeing,737,No,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,100.0,VMC,100.0
+34593,20001206X00689,Accident,ANC94FA036,1994-02-28,"FAIRBANKS, AK",United States,Non-Fatal,Substantial,Other,N303EA,Lockheed Martin,L-1011,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,14.0,VMC,14.0
+36418,20001206X02631,Accident,MIA95LA026,1994-11-22,"MIAMI, FL",United States,Non-Fatal,Substantial,Other,HCBRF,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,1.0,0.0,5.0,VMC,6.0
+37034,20001207X03252,Incident,CHI95IA119,1995-04-07,"CHICAGO, IL",United States,Incident,Minor,Other,N9090U,Boeing,737,No,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,116.0,VMC,116.0
+37078,20001207X03295,Accident,FTW95LA170,1995-04-13,"DENVER, CO",United States,Non-Fatal,Substantial,Other,EICEU,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,147.0,VMC,147.0
+37325,20001207X03512,Accident,MIA95LA135,1995-05-24,"WEST PALM BEACH, FL",United States,Non-Fatal,Substantial,Other,N489DA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,136.0,VMC,136.0
+37617,20001207X03734,Incident,LAX95IA229,1995-06-29,"ELKO, NV",United States,Incident,Minor,Other,N457TM,Boeing,737,No,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,84.0,VMC,84.0
+38096,20001207X04228,Incident,FTW95IA348,1995-08-18,"LUBBOCK, TX",United States,Incident,Minor,Other,N309SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,114.0,VMC,114.0
+38147,20001207X04273,Accident,LAX95FA303,1995-08-23,PACIFIC OCEAN,PACIFIC OCEAN,Non-Fatal,Substantial,Other,N781DL,Lockheed Martin,L-1011,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,236.0,VMC,236.0
+38786,20001207X05080,Incident,SEA96IA027,1995-12-07,"BOISE, ID",United States,Incident,Minor,Other,N543DA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,130.0,IMC,130.0
+38971,20001208X05168,Accident,MIA96FA064,1996-01-17,ATLANTIC OCEAN,ATLANTIC OCEAN,Non-Fatal,Minor,Other,N7076A,Airbus,A300,No,2.0,Turbo Fan,Unknown,0.0,3.0,17.0,248.0,IMC,268.0
+39104,20001208X05312,Accident,NYC96LA063,1996-02-20,"JAMAICA, NY",United States,Non-Fatal,Minor,Other,N11060,Airbus,A300,No,2.0,Turbo Fan,Unknown,0.0,2.0,32.0,163.0,VMC,197.0
+39109,20001208X05264,Incident,IAD96IA044,1996-02-20,"WASHINGTON, DC",United States,Incident,Minor,Other,N33202,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,79.0,IMC,79.0
+39253,20001208X05463,Accident,MIA96LA108,1996-03-20,"JACKSONVILLE, FL",United States,Non-Fatal,Substantial,Other,EICLK,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,62.0,VMC,62.0
+39294,20001208X05462,Accident,MIA96LA107,1996-03-27,"MEMPHIS, TN",United States,Non-Fatal,Substantial,Other,N468FE,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,3.0,VMC,3.0
+39566,20001208X05750,Incident,FTW96IA210,1996-05-10,"DALLAS, TX",United States,Incident,Minor,Other,N315SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,50.0,VMC,50.0
+40026,20001208X06148,Accident,ATL96FA101,1996-07-08,"NASHVILLE, TN",United States,Non-Fatal,Minor,Other,N53SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,1.0,4.0,122.0,IMC,127.0
+40350,20001208X06598,Incident,NYC96IA169,1996-08-15,"HOWARD BEACH, NY",United States,Incident,Minor,Other,N24343,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,112.0,VMC,112.0
+40453,20001208X06588,Accident,MIA96LA220,1996-08-29,"CHATTANOOGA, TN",United States,Non-Fatal,Minor,Other,N392US,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,3.0,1.0,84.0,VMC,88.0
+41114,20001208X07347,Accident,NYC97LA040,1997-01-07,ATLANTIC OCEAN,ATLANTIC OCEAN,Non-Fatal,Minor,Other,N50051,Airbus,A300,No,2.0,Turbo Fan,Unknown,0.0,1.0,5.0,259.0,VMC,265.0
+41204,20001208X07257,Incident,ATL97IA035,1997-01-31,"ATLANTA, GA",United States,Incident,Minor,Other,N611DL,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,168.0,VMC,168.0
+41254,20001208X07375,Incident,ATL97IA042,1997-02-13,"ATLANTA, GA",United States,Incident,Minor,Other,N416DA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,92.0,IMC,92.0
+41664,20001208X07675,Incident,CHI97IA117,1997-04-28,"CHICAGO, IL",United States,Incident,Minor,Other,N9063U,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,2.0,56.0,VMC,58.0
+41781,20001208X07863,Incident,CHI97IA134,1997-05-15,"SAINT LOUIS, MO",United States,Incident,Minor,Other,N11003,Lockheed Martin,L-1011,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,187.0,VMC,187.0
+42178,20001208X08354,Accident,FTW97FA255,1997-07-06,"ALBUQUERQUE, NM",United States,Non-Fatal,Substantial,Other,N2809W,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,3.0,153.0,VMC,156.0
+42206,20001208X08364,Incident,FTW97IA261,1997-07-10,"DICKINSON, ND",United States,Incident,Minor,Other,N660AM,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,22.0,133.0,VMC,155.0
+42525,20001208X08701,Incident,MIA97IA237,1997-08-21,"TAMPA, FL",United States,Incident,Minor,Other,N602SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,2.0,74.0,VMC,76.0
+42815,20001208X08961,Incident,CHI98IA007,1997-10-04,"CHICAGO, IL",United States,Incident,Minor,Other,N129SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,50.0,VMC,50.0
+42889,20001208X08998,Incident,FTW98IA019,1997-10-16,"SEATTLE, WA",United States,Incident,Minor,Other,N581UA,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,196.0,VMC,196.0
+43256,20001211X09452,Accident,IAD98LA021,1998-01-06,"PHILADELPHIA, PA",United States,Non-Fatal,Minor,Other,N845AA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,1.0,0.0,114.0,IMC,115.0
+43381,20001211X09531,Accident,DCA98MA023,1998-02-09,"CHICAGO, IL",United States,Non-Fatal,Substantial,Other,N845AA,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,23.0,99.0,IMC,122.0
+43730,20001211X09821,Accident,CHI98LA127,1998-04-19,"CHICAGO, IL",United States,Non-Fatal,Minor,Other,N722AA,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,1.0,2.0,153.0,VMC,156.0
+44160,20001211X10292,Accident,FTW98FA273,1998-06-17,"DENVER, CO",United States,Non-Fatal,Substantial,Other,N364UA,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,2.0,70.0,VMC,72.0
+44337,20001211X10653,Incident,MIA98IA193,1998-07-07,"BIRMINGHAM, AL",United States,Incident,Minor,Other,N701GS,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,96.0,VMC,96.0
+44348,20001211X10654,Incident,MIA98IA195,1998-07-09,SAN JUAN,Puerto Rico,Incident,Minor,Other,N80057,Airbus,A300,No,2.0,Turbo Fan,Unknown,0.0,0.0,28.0,224.0,VMC,252.0
+44621,20001211X10935,Incident,NYC98IA165,1998-08-07,"MCCONNELLSBURG, PA",United States,Incident,Minor,Other,N515AU,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,10.0,122.0,VMC,132.0
+44673,20001211X10743,Accident,ANC98LA122,1998-08-14,"JUNEAU, AK",United States,Non-Fatal,Substantial,Other,N799AS,Boeing,737,No,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,145.0,VMC,145.0
+45060,20001211X11298,Accident,MIA99FA005,1998-10-07,"MIAMI, FL",United States,Non-Fatal,Substantial,Other,N66734,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,81.0,VMC,81.0
+45187,20001211X11399,Accident,DCA99MA007,1998-11-01,"ATLANTA, GA",United States,Non-Fatal,Substantial,Other,EICJW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,13.0,92.0,VMC,105.0
+45478,20001204X00072,Incident,LAX99IA072,1999-01-05,"PHOENIX, AZ",United States,Incident,Minor,Other,N804MA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,180.0,VMC,180.0
+45672,20001205X00234,Accident,NYC99LA064,1999-02-22,"COVINGTON, KY",United States,Non-Fatal,Substantial,Other,N682DA,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,132.0,VMC,132.0
+46214,20001212X18876,Accident,NYC99LA127,1999-05-28,"STERLING, VA",United States,Non-Fatal,Substantial,Other,N282SC,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,90.0,VMC,90.0
+46257,20001212X19015,Accident,LAX99FA207,1999-06-02,"PHOENIX, AZ",United States,Non-Fatal,Substantial,Other,N656DL,Boeing,757,No,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,127.0,VMC,127.0
+46942,20001212X19540,Incident,IAD99IA059,1999-08-23,"WASHINGTON, DC",United States,Incident,Minor,Other,N926TS,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,171.0,VMC,171.0
+47028,20001212X19796,Accident,LAX99LA291,1999-09-02,"SANTA BARBARA, CA",United States,Non-Fatal,Minor,Other,N371UA,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,1.0,14.0,98.0,VMC,113.0
+47108,20001212X19804,Accident,LAX99LA302,1999-09-12,"LOS ANGELES, CA",United States,Non-Fatal,Substantial,Other,N388UA,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,86.0,VMC,86.0
+47457,20001212X20175,Incident,SEA00IA019,1999-11-11,"PORTLAND, OR",United States,Incident,Minor,Other,N772AS,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,145.0,UNK,145.0
+47509,20001212X20164,Accident,NYC00LA040,1999-11-27,"FLUSHING, NY",United States,Non-Fatal,Substantial,Other,N521DA,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,73.0,VMC,73.0
+47838,20001212X20503,Accident,LAX00FA097,2000-02-12,"SAN SALVADOR, EL SALVADOR",El Salvador,Non-Fatal,Substantial,Other,N671DN,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,161.0,VMC,161.0
+47942,20001212X20606,Accident,DCA00MA030,2000-03-05,"BURBANK, CA",United States,Non-Fatal,Destroyed,Airplane,N668SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,2.0,42.0,98.0,VMC,142.0
+47988,20001212X20664,Incident,LAX00IA127,2000-03-13,"SAN FRANCISCO, CA",United States,Incident,Minor,Other,N516DA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,77.0,VMC,77.0
+48580,20001212X21264,Accident,LAX00LA223,2000-06-12,"LAS VEGAS, NV",United States,Non-Fatal,Substantial,Other,N655AW,Airbus,A320,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,152.0,VMC,152.0
+48965,20001212X21365,Accident,ATL00LA072,2000-07-28,"CHARLESTON, SC",United States,Non-Fatal,Minor,Other,N364PA,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,2.0,14.0,53.0,VMC,69.0
+49176,20001212X21738,Accident,FTW00LA244,2000-08-23,GULF OF MEXICO,GULF OF MEXICO,Non-Fatal,Minor,Other,N657AM,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,1.0,13.0,54.0,IMC,68.0
+49324,20001212X21929,Accident,CHI00LA296,2000-09-10,"MINNEAPOLIS, MN",United States,Non-Fatal,Substantial,Other,N296SC,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,101.0,VMC,101.0
+49887,20010105X00035,Incident,LAX01IA066,2000-12-29,"Honolulu, HI",United States,Incident,Minor,Other,N735D,Lockheed Martin,L-1011,No,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,300.0,IMC,300.0
+50176,20010308X00561,Incident,LAX01IA109,2001-03-04,"Phoenix, AZ",United States,Incident,Minor,Other,N335SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,119.0,VMC,119.0
+50708,20010608X01107,Incident,ATL01IA064,2001-06-05,"Atlanta, GA",United States,Incident,Minor,Other,N750AT,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,89.0,VMC,89.0
+51962,20020110X00051,Accident,ATL02LA029,2002-01-02,"GREENVILLE, SC",United States,Non-Fatal,Substantial,Other,N262FE,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,3.0,IMC,3.0
+52129,20020306X00309,Accident,ANC02LA015,2002-02-14,"KOTZEBUE, AK",United States,Non-Fatal,Substantial,Other,N190AJ,Boeing,727,No,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,4.0,VMC,4.0
+53141,20020801X01282,Accident,DCA02MA054,2002-07-26,"Tallahassee, FL",United States,Non-Fatal,Destroyed,Other,N497FE,Boeing,727,No,3.0,Turbo Jet,Unknown,0.0,3.0,0.0,1.0,VMC,4.0
+53472,20020923X05198,Accident,NYC02LA187,2002-09-09,"BALTIMORE, MD",United States,Non-Fatal,Substantial,Other,N534US,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,103.0,VMC,103.0
+53492,20020923X05202,Incident,MIA02IA167,2002-09-13,"Miami, FL",United States,Incident,Minor,Other,N939AN,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,105.0,VMC,105.0
+54035,20030116X00075,Incident,DEN03IA033,2003-01-11,"Salt Lake City, UT",United States,Incident,Minor,Other,N551UA,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,140.0,VMC,140.0
+54070,20030129X00123,Accident,NYC03FA039,2003-01-19,"FLUSHING, NY",United States,Non-Fatal,Substantial,Other,N550NW,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,1.0,6.0,1.0,VMC,8.0
+54487,20030421X00540,Incident,DEN03IA067,2003-04-17,"Salt Lake City, UT",United States,Incident,Minor,Other,N6712B,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,123.0,VMC,123.0
+54660,20030530X00743,Accident,LAX03LA167,2003-05-20,"SANTA ANA, CA",United States,Non-Fatal,Substantial,Other,N692AA,Boeing,757,No,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,103.0,VMC,103.0
+54680,20030603X00763,Accident,FTW03MA160,2003-05-24,"AMARILLO, TX",United States,Non-Fatal,Substantial,Other,N343SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,68.0,IMC,68.0
+55384,20030827X01408,Incident,MIA03IA168,2003-08-24,"Miami, FL",United States,Incident,Minor,Other,N609AA,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,169.0,VMC,169.0
+55630,20031105X01861,Accident,NYC04CA003,2003-10-04,"BOSTON, MA",United States,Non-Fatal,Substantial,Airplane,N972AN,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,76.0,VMC,76.0
+58897,20050629X00896,Incident,DEN05IA098,2005-06-19,"Salt Lake City, UT",United States,Incident,Minor,Other,N24633,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,104.0,VMC,104.0
+59052,20050713X01012,Accident,CHI05LA179,2005-07-08,"CHICAGO, IL",United States,Non-Fatal,Substantial,Other,N494WN,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,110.0,VMC,110.0
+59584,20050927X01540,Incident,LAX05IA312,2005-09-21,"Los Angeles, CA",United States,Incident,Minor,Airplane,N536JB,Airbus,A320,No,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,146.0,VMC,146.0
+60104,20060131X00140,Accident,DFW06FA056,2006-01-16,"El Paso, TX",United States,Fatal(1),Minor,Other,N32626,Boeing,737,No,2.0,Turbo Jet,Unknown,1.0,0.0,0.0,119.0,VMC,120.0
+60255,20060308X00278,Accident,NYC06LA074,2006-02-25,"BOSTON, MA",United States,Non-Fatal,Substantial,Other,N697DL,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,146.0,VMC,146.0
+60814,20060622X00799,Accident,CHI06LA161,2006-06-08,"NEW YORK, NY",United States,Non-Fatal,Substantial,Other,N403TZ,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,143.0,VMC,143.0
+61132,20060803X01079,Accident,NYC06FA184,2006-07-27,"PITTSBURGH, PA",United States,Non-Fatal,Substantial,Other,N529AU,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,3.0,75.0,VMC,78.0
+61293,20060925X01395,Incident,NYC06IA207,2006-08-21,"Newark, NJ",United States,Incident,Minor,Other,N14655,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,1.0,VMC,1.0
+61341,20060908X01321,Incident,MIA06IA133,2006-08-31,"Miami, FL",United States,Incident,Minor,Other,N425US,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,118.0,VMC,118.0
+63547,20071023X01635,Incident,CHI08IA026,2007-10-09,"Chicago, IL",United States,Incident,Minor,Airplane,N431UA,Airbus,A320,No,2.0,Turbo Fan,Unknown,0.0,0.0,2.0,125.0,VMC,127.0
+63607,20071023X01634,Incident,CHI08IA022,2007-10-20,"Fargo, ND",United States,Incident,Minor,Airplane,N331NW,Airbus,A320,No,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,138.0,VMC,138.0
+63746,20071231X02010,Incident,ENG08IA002,2007-11-17,"Greenville, TX",United States,Incident,Minor,Airplane,N676SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,138.0,VMC,138.0
+64137,20080307X00283,Incident,DFW08IA074,2008-03-01,"Dallas, TX",United States,Non-Fatal,Minor,Airplane,N652SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,244.0,IMC,244.0
+64250,20080404X00426,Incident,DFW08IA087,2008-03-27,"Houston, TX",United States,Non-Fatal,Minor,Airplane,N23661,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,118.0,VMC,118.0
+66329,20090505X04553,Accident,DCA09FA047,2009-05-04,"Denver, CO",United States,Non-Fatal,Substantial,Airplane,N311US,Airbus,A320,No,2.0,Turbo Fan,Unknown,0.0,4.0,0.0,150.0,VMC,154.0
+66376,20090513X31333,Incident,CEN09IA294,2009-05-13,"Houston, TX",United States,Non-Fatal,Minor,Airplane,N371SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,2.0,0.0,51.0,VMC,53.0
+67171,20090909X82446,Incident,ENG09IA014,2009-09-08,"Los Angeles, CA",United States,Non-Fatal,Minor,Airplane,N670SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,142.0,VMC,142.0
+67998,20100410X34740,Accident,WPR10FA199,2010-04-10,"Los Angeles, CA",United States,Non-Fatal,Substantial,Airplane,N624SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,109.0,VMC,109.0
+68379,20100714X63624,Accident,DCA10CA075,2010-06-19,"New York, NY",United States,Non-Fatal,Substantial,Airplane,N3730B,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,5.0,VMC,5.0
+68831,20100827X20401,Incident,WPR10IA430,2010-08-26,"Sacramento, CA",United States,Non-Fatal,Minor,Airplane,N590JB,Airbus,A320,No,2.0,Turbo Fan,Unknown,0.0,7.0,0.0,84.0,VMC,91.0
+69183,20101031X30917,Accident,ERA11LA044,2010-10-29,"Fort Lauderdale, FL",United States,Non-Fatal,Substantial,Airplane,C-FWAQ,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,142.0,VMC,142.0
+69357,20101220X14621,Accident,DCA11CA014,2010-12-18,"Philadelphia, PA",United States,Non-Fatal,Substantial,Airplane,N913WN,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,222.0,VMC,222.0
+69412,20110502X93814,Accident,DCA11FA050,2011-01-03,"Los Angeles, CA",United States,Non-Fatal,Substantial,Airplane,N831NN,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,165.0,VMC,165.0
+69592,20110222X20316,Incident,CEN11IA198,2011-02-21,"Southlake, TX",United States,Non-Fatal,Minor,Airplane,N945AN,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,145.0,VMC,145.0
+69770,20110401X24330,Accident,DCA11MA039,2011-04-01,"Yuma, AZ",United States,Non-Fatal,Substantial,Airplane,N632SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,2.0,0.0,120.0,VMC,122.0
+69796,20110404X21934,Incident,DCA11IA040,2011-04-04,"New Orleans, LA",United States,Non-Fatal,Minor,Airplane,N409UA,Airbus,A320,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,109.0,IMC,109.0
+70089,20110701X11957,Accident,WPR11LA300,2011-05-31,"Los Angeles, CA",United States,Non-Fatal,Minor,Airplane,N526UA,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,190.0,VMC,190.0
+70149,20110621X32040,Accident,DCA11CA073,2011-06-12,"San Fransico, CA",United States,Non-Fatal,Substantial,Airplane,N571UA,Boeing,757,No,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,190.0,VMC,190.0
+70838,20110917X35742,Incident,CEN11IA649,2011-09-17,"Chicago, IL",United States,Non-Fatal,Minor,Airplane,C-FGYL,Airbus,A320,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,140.0,VMC,140.0
+70961,20111011X01145,Incident,ENG12IA001,2011-10-10,"Atlanta, GA",United States,Non-Fatal,Minor,Airplane,N553NW,Boeing,757,No,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,182.0,VMC,182.0
+71253,20120105X34138,Incident,CEN12IA123,2011-12-22,"Denver, CO",United States,Non-Fatal,Minor,Airplane,N469WN,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,133.0,IMC,133.0
+72345,20120727X13551,Incident,DCA12IA113,2012-07-27,"El Paso, TX",United States,Non-Fatal,Minor,Airplane,N379SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,76.0,VMC,76.0
+73395,20130314X14422,Accident,DCA13CA065,2013-03-08,"Atlanta, GA",United States,Non-Fatal,Substantial,Airplane,N698DL,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,148.0,VMC,148.0
+73676,20130511X04905,Incident,WPR13IA226,2013-05-10,"Phoenix, AZ",United States,Non-Fatal,Minor,Airplane,N913WN,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,59.0,VMC,59.0
+74096,20130723X13256,Accident,DCA13FA131,2013-07-22,"Flushing, NY",United States,Non-Fatal,Substantial,Airplane,N753SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,8.0,0.0,141.0,VMC,149.0
+74818,20131224X22946,Incident,ENG14IA005,2013-12-23,"St. Louis, MO",United States,Non-Fatal,Minor,Airplane,N360SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,107.0,Unk,107.0
+74853,20140109X32656,Accident,DCA14CA034,2014-01-04,"Las Vegas, NV",United States,Non-Fatal,Substantial,Airplane,N8327A,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,180.0,VMC,180.0
+75821,20140806X21104,Accident,DCA14LA137,2014-07-30,"San Diego, CA",United States,Non-Fatal,Substantial,Airplane,N553UA,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,174.0,VMC,174.0
+75923,20140814X52852,Accident,WPR14LA346,2014-08-14,"Salt Lake City, UT",United States,Non-Fatal,Substantial,Airplane,N758SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,5.0,VMC,5.0
+77489,20150805X75232,Incident,CEN15IA337,2015-08-05,"Denver, CO",United States,Non-Fatal,Minor,Airplane,N779SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,148.0,VMC,148.0
+78125,20151216X41606,Accident,DCA16LA032,2015-12-15,"Nashville, TN",United States,Non-Fatal,Substantial,Airplane,N649SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,138.0,VMC,138.0
+78324,20160218X94149,Accident,DCA16CA094,2016-02-17,"Detroit, MI",United States,Non-Fatal,Minor,Airplane,N925NN,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,155.0,VMC,155.0
+79215,20160805X44633,Accident,DCA16CA207,2016-08-05,"Baltimore, MD",United States,Non-Fatal,Substantial,Airplane,N368SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,134.0,VMC,134.0
+80478,20170523X12020,Accident,DCA17LA122,2017-05-21,"Raleigh, NC",United States,Non-Fatal,Substantial,Airplane,N633DL,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,186.0,VMC,186.0
+80558,20170608X90705,Incident,ENG17IA027,2017-06-03,"Washington, DC",United States,Non-Fatal,Minor,Airplane,N765SW,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,67.0,Unk,67.0
+81051,20170816X35104,Accident,DCA17CA181,2017-08-15,"Queens, NY",United States,Non-Fatal,Substantial,Airplane,N175AN,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,295.0,VMC,295.0
+81329,20171003X23920,Accident,DCA18CA001,2017-10-02,"Chicago, IL",United States,Non-Fatal,Substantial,Airplane,N930WN,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,84.0,VMC,84.0
+82061,20180417X23642,Accident,DCA18MA142,2018-04-17,"Philadelphia, PA",United States,Fatal,Substantial,Airplane,N772SW,Boeing,737,No,2.0,Turbo Fan,Unknown,1.0,125.0,8.0,6.0,VMC,140.0
+82786,20180816X41010,Accident,DCA18CA266,2018-07-31,"Philadelphia, PA",United States,Non-Fatal,Substantial,Airplane,N192AN,Boeing,757,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,181.0,VMC,181.0
+84031,20190504X04947,Accident,DCA19MA143,2019-05-04,"Jacksonville, FL",United States,Non-Fatal,Substantial,Airplane,N732MA,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,142.0,IMC,143.0
+85362,20200109X21704,Accident,DCA20CA049,2020-01-08,"New York, NY",United States,Non-Fatal,Substantial,Airplane,N929NN,Boeing,737,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,121.0,Unk,121.0
+377,20020917X01912,Accident,DCA82AA016,1982-02-21,"PROVIDENCE, RI",United States,Fatal(1),Destroyed,Airplane,N127PM,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,1.0,10.0,1.0,0.0,VMC,12.0
+515,20020917X01899,Incident,CHI82IA082,1982-03-09,"SOUTH BEND, IN",United States,Incident,Minor,Airplane,N323BA,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,9.0,UNK,9.0
+1216,20020917X03101,Accident,DCA82AA022,1982-05-16,"HOOPER BAY, AK",United States,Non-Fatal,Destroyed,Airplane,N103AQ,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,8.0,0.0,0.0,VMC,8.0
+1581,20020917X02713,Incident,ANC82IA048,1982-06-16,"NEAR PORT HEIDE, AK",United States,Incident,Minor,Airplane,N525N,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,10.0,VMC,10.0
+2598,20020917X04422,Incident,CHI82IA331,1982-09-01,"APPLETON, WI",United States,Incident,Minor,Airplane,N261S,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,2.0,VMC,2.0
+3054,20020917X04780,Accident,LAX83FA002,1982-10-15,"PALM SPRINGS, CA",United States,Non-Fatal,Substantial,Airplane,N63SA,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,0.0,0.0,1.0,17.0,VMC,18.0
+3074,20020917X04455,Accident,CHI83LA021,1982-10-17,"INDIANAPOLIS, IN",United States,Non-Fatal,Substantial,Airplane,N173MA,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,8.0,VMC,8.0
+3199,20020917X04855,Accident,LAX83LA026,1982-11-05,"SAN FRANCISCO, CA",United States,Non-Fatal,Substantial,Airplane,N65SA,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,0.0,0.0,2.0,2.0,VMC,4.0
+3434,20020917X04528,Accident,DEN83AA032,1982-12-07,"PUEBLO, CO",United States,Fatal(2),Destroyed,Airplane,N30093,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,2.0,0.0,0.0,0.0,IMC,2.0
+3437,20020917X04494,Accident,DCA83AA009,1982-12-07,"CHANTILLY, VA",United States,Non-Fatal,Substantial,Airplane,N126AV,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,6.0,VMC,6.0
+3526,20020917X04577,Accident,DEN83LA036,1982-12-20,"GILLETTE, WY",United States,Non-Fatal,Substantial,Airplane,N2671V,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,5.0,VMC,5.0
+3534,20020917X05143,Incident,SEA83IA034,1982-12-22,"KLAMATH FALLS, OR",United States,Incident,Minor,Airplane,N5475M,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,11.0,IMC,11.0
+3620,20001214X41966,Accident,DCA83AA010,1983-01-03,"HAILEY, ID",United States,Fatal(2),Destroyed,Other,N805C,Bombardier,CL-600,No,2.0,Turbo Fan,Executive/corporate,2.0,0.0,0.0,0.0,VMC,2.0
+3899,20001214X42172,Accident,DCA83AA017,1983-02-15,"HAILEY, ID",United States,Non-Fatal,Destroyed,Other,N361V,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,7.0,1.0,0.0,VMC,8.0
+6336,20001214X44675,Incident,NYC83IA252,1983-09-20,"BOSTON, MA",United States,Incident,Minor,Other,N50RP,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,12.0,VMC,12.0
+7240,20001214X38554,Incident,DEN84IA070,1984-01-14,"DURANGO, CO",United States,Incident,Minor,Other,N31088,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,6.0,VMC,6.0
+8802,20001214X40049,Incident,MKC84IA184,1984-06-29,"GRAND ISLAND, NE",United States,Incident,Minor,Other,N1014P,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,5.0,VMC,5.0
+9102,20001214X40348,Accident,LAX84FA415,1984-07-21,"TAU, AMERICAN SAMOA",American Samoa,Fatal(1),Substantial,Other,N43SP,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,1.0,7.0,8.0,0.0,VMC,16.0
+9922,20001214X41064,Incident,FTW84IA412,1984-09-29,"HOUSTON, TX",United States,Incident,Minor,Other,N914MA,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,8.0,VMC,8.0
+10779,20001214X35491,Accident,CHI85MA100,1985-01-31,"LONDON, KY",United States,Non-Fatal,Destroyed,Other,N568UP,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,2.0,1.0,0.0,IMC,3.0
+11083,20001214X35805,Accident,ANC85FA054,1985-03-12,"BARTER ISLAND, AK",United States,Non-Fatal,Substantial,Other,N540N,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,2.0,2.0,0.0,IMC,4.0
+11256,20001214X36121,Accident,CHI85LA151,1985-04-03,"GRAND RAPIDS, MI",United States,Non-Fatal,Substantial,Other,N3434,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,1.0,VMC,1.0
+13215,20001214X38121,Accident,NYC86FA006,1985-10-11,"HOMER CITY, PA",United States,Fatal(1),Destroyed,Other,N3257,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,1.0,0.0,0.0,0.0,VMC,1.0
+13925,20001213X32792,Accident,ANC86LA025,1986-02-07,"MEKORYUK, AK",United States,Non-Fatal,Substantial,Other,N204EH,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,9.0,IMC,9.0
+15163,20001213X34264,Accident,MKC86LA136,1986-07-01,"LINCOLN, NE",United States,Non-Fatal,Substantial,Other,N243DH,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,2.0,VMC,2.0
+15973,20001213X34735,Accident,CHI86FA235,1986-09-24,"GALESBURG, IL",United States,Non-Fatal,Substantial,Other,N327BA,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,12.0,IMC,12.0
+16120,20001213X35023,Incident,MKC87IA007,1986-10-16,"SPRINGFIELD, MO",United States,Incident,Minor,Other,N251AM,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,13.0,VMC,13.0
+16209,20001213X34975,Accident,LAX87FA028,1986-10-30,"SANTA BARBARA, CA",United States,Non-Fatal,Substantial,Other,N137WW,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,0.0,1.0,2.0,11.0,VMC,14.0
+16420,20001213X35219,Accident,MIA87FA040,1986-11-29,SAN JUAN,Puerto Rico,Non-Fatal,Substantial,Other,N930MA,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,2.0,VMC,2.0
+16502,20001213X35434,Accident,SEA87FA036,1986-12-15,"SALT LAKE CITY, UT",United States,Non-Fatal,Substantial,Other,N164SW,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,4.0,IMC,4.0
+16628,20001213X30103,Accident,LAX87LA086,1987-01-10,"YUMA, AZ",United States,Non-Fatal,Substantial,Other,N165SW,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,5.0,VMC,5.0
+16647,20001213X30060,Accident,DCA87MA018A,1987-01-15,"KEARNS, UT",United States,Fatal(10),Destroyed,Airplane,N163SW,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,10.0,0.0,0.0,1.0,VMC,11.0
+16783,20001213X30182,Accident,ATL87LA070,1987-02-05,"FLORENCE, SC",United States,Non-Fatal,Substantial,Other,N1013G,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,7.0,VMC,7.0
+17198,20001213X30780,Accident,MKC87LA080,1987-04-06,"COLUMBIA, MO",United States,Non-Fatal,Substantial,Other,N26863,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,2.0,VMC,2.0
+17340,20001213X30575,Accident,ATL87FA123,1987-04-23,"WILMINGTON, NC",United States,Fatal(2),Destroyed,Other,N505LB,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,2.0,0.0,0.0,0.0,VMC,2.0
+17390,20001213X30676,Incident,FTW87IA108,1987-04-28,"DENTON, TX",United States,Incident,Minor,Other,N600KC,Bombardier,CL-600,No,2.0,Turbo Fan,Executive/corporate,0.0,0.0,0.0,11.0,VMC,11.0
+17934,20001213X31242,Accident,LAX87LA250,1987-06-29,"GRAND CANYON, AZ",United States,Non-Fatal,Substantial,Other,N74GC,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,18.0,VMC,18.0
+19514,20001213X24878,Accident,DCA88MA017,1988-01-19,"BAYFIELD, CO",United States,Fatal(9),Destroyed,Other,N68TC,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,9.0,1.0,6.0,1.0,IMC,17.0
+19522,20001213X24902,Incident,FTW88IA055,1988-01-20,"COLLEGE STATION, TX",United States,Incident,Minor,Other,N3107P,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,7.0,VMC,7.0
+19691,20001213X25040,Accident,DCA88MA032,1988-02-19,"CARY, NC",United States,Fatal(12),Destroyed,Other,N622AV,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,12.0,0.0,0.0,0.0,IMC,12.0
+20311,20001213X25598,Accident,ATL88FA173,1988-05-16,"ATLANTA, GA",United States,Non-Fatal,Substantial,Other,N1013G,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,12.0,VMC,12.0
+20572,20001213X25998,Accident,LAX88LA226,1988-06-17,"TAU, American Samoa",American Samoa,Non-Fatal,Destroyed,Other,N202RH,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,1.0,15.0,0.0,VMC,16.0
+20983,20001213X26091,Accident,ANC88FA100,1988-07-27,"ANCHORAGE, AK",United States,Non-Fatal,Substantial,Other,N482SA,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,8.0,VMC,8.0
+21199,20001213X26490,Accident,CHI88FA205,1988-08-16,"CLEVELAND, OH",United States,Non-Fatal,Substantial,Other,N322BA,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,0.0,0.0,2.0,6.0,VMC,8.0
+21794,20001213X27031,Accident,DEN89FA024,1988-10-29,"ASPEN, CO",United States,Non-Fatal,Substantial,Other,N909MG,Bombardier,CL-600,No,2.0,Turbo Fan,Unknown,0.0,0.0,2.0,5.0,VMC,7.0
+22018,20001213X27362,Accident,ANC89LA021,1988-12-04,"HOMER, AK",United States,Non-Fatal,Substantial,Other,N525EH,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,3.0,IMC,3.0
+22237,20001213X27600,Accident,LAX89FA086,1989-01-17,"LOS ANGELES, CA",United States,Non-Fatal,Substantial,Other,N26895,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,1.0,7.0,VMC,8.0
+22255,20001213X27559,Accident,CHI89MA047,1989-01-20,"SOUTH BEND, IN",United States,Non-Fatal,Substantial,Other,N901B,Dassault,FALCON 900,No,3.0,Turbo Fan,Executive/corporate,0.0,0.0,0.0,4.0,VMC,4.0
+23984,20001213X29399,Accident,LAX89FA303,1989-09-06,"LOS ANGELES, CA",United States,Non-Fatal,Substantial,Other,N27283,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,10.0,VMC,10.0
+24086,20001213X29277,Accident,ANC89LA168,1989-09-19,"SLEEPY BAY, AK",United States,Non-Fatal,Substantial,Other,N851TB,De Havilland,DHC-6,No,2.0,Turbo Prop,Business,0.0,0.0,0.0,5.0,VMC,5.0
+24757,20001212X22403,Accident,DEN90FA042,1990-01-15,"ELKO, NV",United States,Non-Fatal,Substantial,Other,N2721M,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,4.0,9.0,3.0,IMC,16.0
+25154,20001212X22644,Accident,ANC90FA047,1990-03-29,"CHEVAK, AK",United States,Non-Fatal,Substantial,Other,N200EH,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,15.0,IMC,15.0
+27208,20001212X24828,Accident,SEA91LA040,1990-12-31,"KALISPELL, MT",United States,Non-Fatal,Substantial,Other,N385PH,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,15.0,IMC,15.0
+28212,20001212X17241,Accident,DEN91LA082,1991-06-12,"DENVER, CO",United States,Non-Fatal,Substantial,Other,N242CA,De Havilland,DHC-6,No,2.0,Turbo Prop,Business,0.0,0.0,0.0,2.0,VMC,2.0
+28314,20001212X17343,Accident,MIA91LA167,1991-06-23,"TUPELO, MS",United States,Non-Fatal,Substantial,Other,N13JV,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Personal,0.0,0.0,0.0,7.0,VMC,7.0
+29243,20001212X18363,Accident,NYC92LA002,1991-10-06,"AUGUSTA, ME",United States,Non-Fatal,Substantial,Other,N120FA,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,2.0,16.0,VMC,18.0
+29364,20001212X18228,Accident,ANC92LA010,1991-10-26,"CHEVAK, AK",United States,Non-Fatal,Substantial,Other,N724CA,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,5.0,VMC,5.0
+30204,20001211X14508,Accident,NYC92LA083,1992-04-17,"LEXINGTON, KY",United States,Non-Fatal,Substantial,Other,N27465,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,1.0,4.0,VMC,5.0
+31848,20001211X16106,Accident,SEA93LA027,1992-11-21,"BILLINGS, MT",United States,Non-Fatal,Substantial,Other,N139PA,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,2.0,VMC,2.0
+32445,20001211X12077,Accident,ATL93MA068,1993-04-01,"BLOUNTVILLE, TN",United States,Fatal(4),Destroyed,Other,N500AK,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Executive/corporate,4.0,0.0,0.0,0.0,VMC,4.0
+34127,20001211X13732,Incident,FTW94IA032,1993-11-11,"SUGAR LAND, TX",United States,Incident,Minor,Other,N688NE,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,4.0,VMC,4.0
+34220,20001211X13673,Incident,ANC94IA020,1993-11-30,"KING SALMON, AK",United States,Incident,Minor,Other,N630PA,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,11.0,VMC,11.0
+34713,20001206X00875,Accident,CHI94LA112,1994-03-17,"DETROIT, MI",United States,Non-Fatal,Substantial,Other,N327K,Dassault,FALCON 900,No,3.0,Turbo Fan,Executive/corporate,0.0,0.0,0.0,9.0,VMC,9.0
+34810,20001206X01120,Incident,LAX94IA181,1994-04-04,"ONTARIO, CA",United States,Incident,Minor,Other,N174SW,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,1.0,11.0,VMC,12.0
+36389,20001206X02658,Incident,SEA95IA021,1994-11-17,"MISSOULA, MT",United States,Incident,Minor,Other,N380PH,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,4.0,UNK,4.0
+37100,20001207X03377,Incident,SEA95IA082,1995-04-16,"PASCO, WA",United States,Incident,Minor,Other,N385PH,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,7.0,VMC,7.0
+39196,20001208X05466,Accident,MIA96WA150,1996-03-09,"BAGUA, Peru",Peru,Fatal(3),Destroyed,Other,N245GW,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,3.0,0.0,0.0,0.0,VMC,3.0
+39906,20001208X05913,Accident,CHI96FA216,1996-06-25,"GRAND FORKS, ND",United States,Non-Fatal,Substantial,Other,N2692P,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,19.0,VMC,19.0
+41022,20001208X07185,Accident,LAX97FA069,1996-12-15,"HONOLULU, HI",United States,Non-Fatal,Substantial,Other,N801WP,De Havilland,DHC-8,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,13.0,VMC,13.0
+41438,20001208X07632,Accident,SEA97LA077,1997-03-26,"WENATCHEE, WA",United States,Non-Fatal,Substantial,Other,N826PH,De Havilland,DHC-8,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,12.0,VMC,12.0
+42290,20001208X08436,Accident,LAX97LA250,1997-07-21,"ELKO, NV",United States,Non-Fatal,Substantial,Other,N776BF,De Havilland,DHC-6,No,2.0,Turbo Prop,Personal,0.0,0.0,0.0,2.0,VMC,2.0
+42535,20001208X08536,Accident,ANC97LA127,1997-08-22,"ANCHORAGE, AK",United States,Non-Fatal,Substantial,Other,N27188,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,7.0,VMC,7.0
+43513,20001211X09672,Accident,FTW98LA149,1998-03-11,"TYLER, TX",United States,Non-Fatal,Substantial,Other,N730C,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,3.0,VMC,3.0
+44287,20001211X10701,Accident,SEA98LA118,1998-07-02,"HAMILTON, MT",United States,Non-Fatal,Substantial,Other,N900CS,Dassault,FALCON 900,No,3.0,Turbo Fan,Personal,0.0,0.0,0.0,9.0,VMC,9.0
+45869,20001205X00419,Accident,ATL99LA067,1999-04-05,"LANTANA, FL",United States,Non-Fatal,Substantial,Other,N838MA,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,6.0,4.0,VMC,10.0
+45970,20001205X00507,Accident,LAX99LA163,1999-04-23,"FITIUTA, AUSTRALIA",Australia,Non-Fatal,Substantial,Other,N719AS,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,14.0,VMC,14.0
+46196,20001212X18677,Accident,ANC99LA064,1999-05-25,"ANCHORAGE, AK",United States,Non-Fatal,Substantial,Other,N72GC,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,4.0,VMC,4.0
+48304,20001212X20972,Accident,DEN00FA085,2000-05-05,"MONUMENT VALLEY, UT",United States,Non-Fatal,Substantial,Other,N241SA,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,17.0,VMC,17.0
+49936,20010116X00313,Accident,FTW01LA049,2001-01-11,"FORT WORTH, TX",United States,Non-Fatal,Substantial,Other,N824ED,De Havilland,DHC-6,No,2.0,Turbo Prop,Business,0.0,0.0,0.0,3.0,VMC,3.0
+50058,20010213X00442,Accident,DEN01LA050,2001-02-06,"PINEDALE, WY",United States,Non-Fatal,Substantial,Airplane,N59CF,Dassault,FALCON 900,No,2.0,Turbo Fan,Executive/corporate,0.0,0.0,0.0,8.0,IMC,8.0
+50075,20010215X00457,Accident,CHI01FA083,2001-02-08,"Beaver Island, MI",United States,Fatal(2),Destroyed,Other,N318DH,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,2.0,2.0,2.0,1.0,IMC,7.0
+53041,20020731X01263,Accident,ANC02LA079,2002-07-13,"TOKSOOK BAY, AK",United States,Non-Fatal,Substantial,Other,N885EA,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,13.0,VMC,13.0
+54075,20030128X00117,Accident,ANC03LA024,2003-01-21,"KIPNUK, AK",United States,Non-Fatal,Substantial,Other,N206EH,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,10.0,VMC,10.0
+54447,20030423X00554,Accident,ANC03LA043,2003-04-10,"ANCHORAGE, AK",United States,Non-Fatal,Substantial,Other,N886EA,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,19.0,VMC,19.0
+54585,20030514X00656,Accident,NYC03LA101,2003-05-07,"BOSTON, MA",United States,Non-Fatal,Substantial,Other,N484CA,Bombardier,CL-600,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,3.0,VMC,3.0
+55921,20031205X02005,Accident,SEA04FA023,2003-11-29,"Spokane, WA",United States,Fatal(1),Destroyed,Other,N439AF,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,1.0,0.0,0.0,1.0,IMC,2.0
+55995,20040108X00033,Incident,NYC04IA054,2003-12-16,"Teterboro, NJ",United States,Incident,Minor,Other,N95EB,Bombardier,CL-600,No,2.0,Turbo Fan,Business,0.0,0.0,0.0,2.0,VMC,2.0
+58118,20050207X00140,Accident,ANC05LA025,2005-01-27,"TOKSOOK BAY, AK",United States,Non-Fatal,Substantial,Other,N201EH,De Havilland,DHC-6,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,8.0,VMC,8.0
+58138,20050208X00153,Accident,DCA05MA031,2005-02-02,"TETERBORO, NJ",United States,Non-Fatal,Substantial,Airplane,N370V,Bombardier,CL-600,No,2.0,Turbo Fan,Unknown,0.0,4.0,9.0,0.0,VMC,13.0
+58286,20050317X00322,Accident,ATL05FA061,2005-03-09,"TUPELO, MS",United States,Non-Fatal,Substantial,Other,N660RM,Bombardier,CL-600,No,2.0,Turbo Fan,Business,0.0,0.0,0.0,7.0,VMC,7.0
+58304,20050317X00323,Accident,CHI05FA077,2005-03-11,"MILWAUKEE, WI",United States,Non-Fatal,Substantial,Other,N8932C,Bombardier,CL-600,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,12.0,IMC,12.0
+58831,20050617X00804,Accident,LAX05FA202,2005-06-12,"LOS ANGELES, CA",United States,Non-Fatal,Substantial,Other,N960SW,Bombardier,CL-600,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,17.0,VMC,17.0
+60193,20060213X00194,Accident,ATL06FA045,2006-02-08,"Paris, TN",United States,Fatal(1),Destroyed,Other,N629EK,Fairchild Swearingen,SA-226,No,2.0,Turbo Prop,Unknown,1.0,0.0,0.0,1.0,VMC,2.0
+60194,20060213X00195,Accident,DEN06LA038,2006-02-09,"ASPEN, CO",United States,Non-Fatal,Substantial,Other,N900LG,Bombardier,CL-600,No,2.0,Turbo Fan,Business,0.0,0.0,0.0,3.0,VMC,3.0
+62295,20070503X00504,Accident,CHI07FA107,2007-04-07,"LAKE MICHIGAN, MI",United States,Non-Fatal,Substantial,Airplane,N77181,Bombardier,CL-600,No,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,4.0,VMC,4.0
+62673,20070616X00749,Accident,SEA07LA152,2007-06-10,"SANTA BARBARA, CA",United States,Non-Fatal,Substantial,Airplane,N914DD,Dassault,FALCON 900,No,3.0,Turbo Fan,Executive/corporate,0.0,0.0,0.0,15.0,VMC,15.0
+63464,20071011X01543,Accident,ATL07LA130,2007-09-28,"TETERBORO, NJ",United States,Non-Fatal,Substantial,Other,N90TH,Dassault,FALCON 900,No,3.0,Turbo Fan,Executive/corporate,0.0,0.0,0.0,7.0,VMC,7.0
+66262,20090422X95319,Accident,WPR09LA211,2009-04-21,"Phoenix, AZ",United States,Non-Fatal,Substantial,Airplane,N449YV,De Havilland,DHC-8,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,17.0,VMC,17.0
+67612,20100103X60452,Accident,ERA10LA103,2010-01-02,"Somerset, KY",United States,Non-Fatal,Substantial,Airplane,N227ML,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,3.0,VMC,3.0
+69669,20110311X33741,Accident,WPR11FA159,2011-03-11,"Seattle, WA",United States,Non-Fatal,Substantial,Airplane,N671AV,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,1.0,VMC,1.0
+72991,20121118X34829,Incident,CEN13IA059,2012-11-10,"Minneapolis, MN",United States,Non-Fatal,Minor,Airplane,N619BA,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,1.0,VMC,1.0
+74761,20131203X94343,Accident,ERA14MA060,2013-12-03,"La Alianza, PR",United States,Fatal,Destroyed,Airplane,N831BC,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,2.0,0.0,0.0,0.0,VMC,2.0
+76893,20150423X75710,Incident,ERA15IA198,2015-04-16,"Orlando, FL",United States,Non-Fatal,Minor,Airplane,N610RL,Dassault,FALCON 900,No,3.0,Turbo Fan,Executive/corporate,0.0,0.0,0.0,15.0,VMC,15.0
+79486,20161214X65650,Incident,CEN16WA396,2016-09-20,"Cologne, Germany",Germany,Non-Fatal,Minor,Airplane,D-CPSW,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,2.0,VMC,2.0
+79832,20161205X33941,Accident,ERA17FA066,2016-12-06,"Camilla, GA",United States,Fatal,Destroyed,Airplane,N765FA,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,1.0,0.0,0.0,0.0,IMC,1.0
+81699,20180111X85842,Accident,GAA18CA098,2018-01-11,"Rock Springs, WY",United States,Non-Fatal,Substantial,Airplane,N561UP,Fairchild Swearingen,SA-227,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,1.0,VMC,1.0
+82864,20180812X92421,Accident,WPR18FA220,2018-08-11,"Steilacoom, WA",United States,Fatal,Destroyed,Airplane,N449QX,De Havilland,DHC-8,No,2.0,Turbo Prop,Unknown,1.0,0.0,0.0,0.0,VMC,1.0
+85247,20191210X12113,Incident,ENG20IA006,2019-12-09,"Keene, NH",United States,Non-Fatal,Minor,Airplane,C-GNON,De Havilland,DHC-8,No,2.0,Turbo Prop,Unknown,0.0,0.0,0.0,18.0,IMC,18.0
