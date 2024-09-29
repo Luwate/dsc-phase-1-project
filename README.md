@@ -7,7 +7,7 @@ Luwate Inda
 Royal Air is a modern airliner, which takes a novel approach to airlines. Ditching the notion that an airline must either target the private or commercial space, Royal Air has carved a niche for itself by effectively serving both sets of clients. As a result of this, the airline has seen rapid growth and now seeks to grow its fleet of aircraft in order to scale operations.
 
 # Business Objectives 
-## Problem Statement**  
+## Problem Statement  
 Due to the growing demand Royal air has experienced, there is a need to acquire more aircraft, for both its commercial and private operations, in order to match this demand. This project aims to analyse accident data and through this, determine which aircraft would be the most appropriate option based on safety criteria.
 
 ## Expected Benefits
@@ -20,7 +20,7 @@ Success of the project will be evaluated through recommendation of the safest ai
 The data available consists of aviation accidents between 1962 and 2023 collected by the National Transportation Safety Bureau (NTSB).  
 The most prominent risk of this project would be the scope. This is because the recommendation will be based solely on aircraft safety and does not include other factors which may be important such as fuel consumption. In addition, the data does not contain all aircraft in service and instead only has aircraft that have been involved in accidents or incidents of some sort. Therefore, there is the possibility that the most appropriate aircraft is one that is not in the data as it may have not been involved in any event recorded by the NTSB. In order to mitigate this risk, further studies should be done to evaluate aircraft based on other metrics.
 
-## Project Goals**
+## Project Goals
 
 * Clean data in order to remain with only relevant aircraft.  
 * Analyse the data based on safety criteria  
